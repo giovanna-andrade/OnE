@@ -1,0 +1,11 @@
+/*Arquivo CSS
+Para toda a página*/ /**/
+
+.bg-escuro{
+    background-color:  #34323e;
+    color: #fefefe;
+}
+.bg-claro{
+    background-color: #5e7af5;
+    
+}
