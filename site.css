@@ -9,3 +9,6 @@ Para toda a página*/ /**/
     background-color: #5e7af5;
     
 }
+.navbar {
+    background-image: url(logo.png);
+}
