@@ -1,14 +1,30 @@
 /*Arquivo CSS
 Para toda a página*/ /**/
 
-.bg-escuro{
-    background-color:  #34323e;
-    color: #fefefe;
+/*
+
+#2987c8 azul
+#85ccec azul claro
+#d0d4d9 cinza claro
+#85858c cinza 
+#2c2e35 cinza escuro
+
+
+*/
+
+.fundo-escuro{
+    background-color: #2c2e35;
 }
-.bg-claro{
-    background-color: #5e7af5;
-    
-}
-.navbar {
-    background-image: url(imagem_fundo.png);
+
+.jumbotron-with-background {
+
+
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    text-align: left;
+    color: white;
+    /*background-color: rgba(0, 0, 0, 0.7); fundo transparente */
+
 }
