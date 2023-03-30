@@ -11,20 +11,50 @@ Para toda a página*/ /**/
 
 
 */
-
-.fundo-escuro{
-    background-color: #2c2e35;
+ .fonte-menu{
+    font-family:unset;
+    font-weight: bold;
+    color: #2987c8;
 }
 
-.jumbotron-with-background {
+.primary{
+    color: #2987c8;
+    
+}
+.bg-primary{
+    background-color: #2987c8;
+    
+}
 
+.info{
+    color: #85ccec;
+}
+.bg-info{
+    background-color: #85ccec;
+}
 
-    background-position:center;
-    background-repeat: no-repeat;
-    background-size: cover;
+.secondary{
+    color: #85858c;
+}
+.bg-secondary{
+    background-color: #85858c;
+}
 
-    text-align: left;
+.light{
     color: white;
-    /*background-color: rgba(0, 0, 0, 0.7); fundo transparente */
-
 }
+.bg-light{
+    background-color: white;
+}
+.bg-image{
+    background-image: url(imagem_fundo_2.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
+
+
+
+
+
+
