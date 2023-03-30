@@ -29,6 +29,7 @@ Para toda a página*/ /**/
 .info{
     color: #85ccec;
 }
+
 .bg-info{
     background-color: #85ccec;
 }
@@ -36,6 +37,7 @@ Para toda a página*/ /**/
 .secondary{
     color: #85858c;
 }
+
 .bg-secondary{
     background-color: #85858c;
 }
@@ -43,9 +45,11 @@ Para toda a página*/ /**/
 .light{
     color: white;
 }
+
 .bg-light{
     background-color: white;
 }
+
 .bg-image{
     background-image: url(imagem_fundo_2.jpg);
     background-repeat: no-repeat;
